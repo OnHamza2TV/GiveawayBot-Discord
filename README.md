@@ -118,3 +118,5 @@ Si vous voyez une erreur dans la console, n'hésitez pas à la corriger ou à me
 Remember not to delete "json.sqlite" as it contains all current / cancelled / modified giveaways.
 
 Thank you for using this code !
+
+## Bot By ZerioDev
