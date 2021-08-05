@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^6.0.1",
+    "better-sqlite3": "^7.1.2",
     "discord-giveaways": "^4.0.2",
     "discord.js": "^12.2.0",
     "fs": "0.0.1-security",
